@@ -21,3 +21,5 @@ def directors_totals(nds)
   
 
 end
+
+  directors_database
